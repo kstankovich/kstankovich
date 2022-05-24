@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kstankovich
 - 👀 I’m interested in finding a job in software develpment.
-- 🌱 I’m currently learning about android app development as well as game development. 
-- --But I have experience with python, java, html and css.
+- 🌱 I’m currently in a java intensive training with apprentice now. 
+- --I also have an associates degree with class work relating to python, java, kotlin for android development, and C# for creating games with unity. 
 - 📫 How to reach me: please email me at kstankovich1@ivytech.edu
 
 <!---
